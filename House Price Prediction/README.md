@@ -2,7 +2,7 @@
 
 I submitted this project to a Kaggle competition.
 
-The dataset comprised of 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. The training data has 1461 rows of 81 variables. 
+The dataset (Ames Housing dataset) comprised of 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. The training data has 1461 rows of 81 variables. 
 
 The aim is to predict the final price of each home. 
 
