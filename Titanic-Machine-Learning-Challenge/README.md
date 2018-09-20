@@ -6,4 +6,6 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 The aim of this project is to analyze what sorts of people were likely to survive.
 
+Packages like numpy, pandas and sklearn have been used extensively. Feature engineering has been done to create new features and drop irrevalent features. Different models such as Naive Bayes, SGD Classifier, Perceptron, LinearSVC, logistic regression, SVM, KNN, XGB Classifier, decision tree and random forest have been used. Random forest outperformed other models. Grid search has been used to tune the parameters of random forest model to further improve the results.
+
 References: https://www.kaggle.com/startupsci/titanic-data-science-solutions/notebook
