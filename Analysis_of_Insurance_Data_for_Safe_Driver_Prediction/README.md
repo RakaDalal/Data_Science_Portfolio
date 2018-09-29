@@ -1,4 +1,4 @@
-# Safe-Driver-Prediction
+# Analysis of Insurance Data for Safe Driver Prediction
 
 I submitted this project to a Kaggle competition.
 
