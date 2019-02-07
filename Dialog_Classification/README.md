@@ -32,6 +32,4 @@ How to run:
 python prediction.py <input_text>
 For example, python prediction.py "Hey, thanks for your vote, man"
 
-This code takes as input a dialogue entry and outputs one of the five values: Homer Simpson, Marge Simpson, Bart Simpson, Lisa Simpson, or Other.
-
-Problem_2.pdf contains the suggested improvements to the model.
+This code takes as input a dialogue entry and outputs one of the five values as the predicted character who has spoken the dialogue: Homer Simpson, Marge Simpson, Bart Simpson, Lisa Simpson, or Other.
